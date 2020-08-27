@@ -15,3 +15,9 @@ An application that allows users to log in and casts votes for the candidates of
 
 ##5.
 ![alt text](https://github.com/Sinoxolo1408/Voting_System/blob/master/b5.PNG?raw=true)
+
+##6.
+![alt text](https://github.com/Sinoxolo1408/Voting_System/blob/master/b6.PNG?raw=true)
+
+##7.
+![alt text](https://github.com/Sinoxolo1408/Voting_System/blob/master/b7.PNG?raw=true)
